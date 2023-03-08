@@ -2,3 +2,4 @@
 1. listing contents of a current  directory
 2. back to home directory
 3. listing contentts of directory in long format
+4. listing all contents (including hidden)
