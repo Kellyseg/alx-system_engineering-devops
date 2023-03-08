@@ -1,1 +1,2 @@
-0. Script 1-the absolute pathway of the currrent working directory
+0. the absolute pathway of the currrent working directory
+1. listing contents of a directory
