@@ -6,4 +6,6 @@
 5. list in long format displaying user and group ID numerically
 6. create a directory in another directory
 7. move a file
-8. delete a file in a directory 
+8. delete a file in a directory
+9. delete a folder
+ 
