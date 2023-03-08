@@ -5,3 +5,4 @@
 4. listing all contents (including hidden)
 5. list in long format displaying user and group ID numerically
 6. create a directory in another directory
+7. move a file 
