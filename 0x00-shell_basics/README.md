@@ -10,4 +10,5 @@
 9. delete a folder
 10. change to previous directory 
 11. listing conteents in current and other directories
-12. display type of file 
+12. display type of file
+13. creatin symbolic link 
