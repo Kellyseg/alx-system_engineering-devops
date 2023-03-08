@@ -9,3 +9,4 @@
 8. delete a file in a directory
 9. delete a folder
 10. change to previous directory 
+11. listing conteents in current and other directories 
