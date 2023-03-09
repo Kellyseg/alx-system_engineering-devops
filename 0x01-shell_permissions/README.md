@@ -6,3 +6,4 @@ My readme file on shell permissions project
 4. create an empty file
 5. add execute permission to owner
 6. giving multiple permissions
+7. permissions for everybody
