@@ -10,3 +10,5 @@ My readme file on shell permissions project
 8. more permissions
 9. permissions again
 10. mirror permissions
+11. subdirectory permissions
+12. 
