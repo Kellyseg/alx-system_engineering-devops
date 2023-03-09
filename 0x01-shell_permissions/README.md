@@ -9,3 +9,4 @@ My readme file on shell permissions project
 7. permissions for everybody
 8. more permissions
 9. permissions again
+10. mirror permissions
