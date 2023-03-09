@@ -4,3 +4,4 @@ My readme file on shell permissions project
 3. print all user groups
 4. change file owner
 5. create an empty file
+6. add execute permission to owner
