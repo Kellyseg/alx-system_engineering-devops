@@ -12,4 +12,4 @@ My readme file on shell permissions project
 10. mirror permissions
 11. subdirectory permissions
 12. directory permissions
-13.  
+13. change group ownership 
